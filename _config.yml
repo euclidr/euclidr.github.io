@@ -28,7 +28,7 @@ url: "https://euclidr.github.io" # the base hostname & protocol for your site, e
 github_username:  euclidr
 
 # Build settings
-theme: garth
+theme: garth-jekyll-theme
 plugins:
   - jekyll-feed
 
