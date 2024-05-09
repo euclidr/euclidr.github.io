@@ -21,7 +21,7 @@
 title: Twopie
 email: divisor.yang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  两片的博客，展示矿物，记录一些在脑里停留很久的东西。
+  矿物展示，记录一些在脑里停留很久的东西。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://euclidr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: enzoyang8
@@ -31,10 +31,25 @@ github_username:  euclidr
 theme: minima
 minima:
   date_format: "%Y-%m-%d"
-  skin: solarized-dark
+  # skin: auto # 3.0 才能用
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: archive_tag
+  permalinks:
+    # year: '/:year/'
+    # month: '/:year/:month/'
+    # day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    # category: '/category/:name/'
+header_pages:
+  - about.markdown
+  - tags.markdown
 show_excerpts: true
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
