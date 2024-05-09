@@ -31,7 +31,7 @@ github_username:  euclidr
 theme: minima
 minima:
   date_format: "%Y-%m-%d"
-  skin: solarized
+  skin: solarized-dark
 show_excerpts: true
 plugins:
   - jekyll-feed
