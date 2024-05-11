@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: custom_post
 title:  "Jekyll GitHub Page 配置踩坑"
 date:   2024-05-09 12:33:11 +0800
 categories: jekyll
