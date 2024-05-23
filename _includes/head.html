@@ -9,4 +9,23 @@
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
         {%- include google-analytics.html -%}
     {%- endif -%}
+    <style>
+        code {
+          white-space : pre-wrap !important;
+          word-break: break-word;
+        }
+        figure {
+            display: inline-block;
+            /*border: 1px dotted gray;*/
+            margin: 20px; /* adjust as needed */
+        }
+        figure img {
+            vertical-align: top;
+        }
+        figure figcaption {
+            /*border: 1px dotted blue;*/
+            text-align: center;
+            color: grey;
+        }
+      </style>
 </head>
