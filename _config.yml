@@ -27,6 +27,9 @@ url: "https://euclidr.github.io" # the base hostname & protocol for your site, e
 # twitter_username: enzoyang8
 github_username:  euclidr
 
+disqus:
+  shortname: euclidr
+
 # Build settings
 theme: minima
 minima:
