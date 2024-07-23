@@ -23,7 +23,7 @@ tags: new_knowledge
 * 不同波长的光线通过凸透镜的折射率是不一样的，会导致不同颜色的焦点并不一样，形成球差，色差，慧差（我的理解还比较模糊）。所以镜头需要一系列的矫正设计才能让像的焦点汇聚。
 
 <figure class="img">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EL9J3Km6wxI?si=WL7RfvCA_BzneRk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="800" height="360" src="https://www.youtube.com/embed/EL9J3Km6wxI?si=WL7RfvCA_BzneRk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>How Lenses Function</figcaption>
 </figure>
 
@@ -32,6 +32,6 @@ tags: new_knowledge
 最后，我还发现了一些人用光学仿真的方式去评估镜头设计的好坏，他们根据公开的镜头设计专利，将数据设置到专业的光学仿真软件里就可以知道这个镜头设计的锐度如何，畸变怎样。也是从他们的相关视频我才知道有些镜头的成像是远远超越相机传感器的测量范围的。
 
 <figure class="img">
-    <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=1955969874&bvid=BV1Xy411q7PB&cid=1590044124&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+    <iframe width="800" height="360" src="//player.bilibili.com/player.html?isOutside=true&aid=1955969874&bvid=BV1Xy411q7PB&cid=1590044124&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
     <figcaption>Anvcor 的相关镜头仿真视频：https://space.bilibili.com/364758776</figcaption>
 </figure>
