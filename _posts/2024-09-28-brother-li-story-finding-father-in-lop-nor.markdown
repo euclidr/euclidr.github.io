@@ -3,7 +3,7 @@ layout: custom_post
 title:  "李哥讲故事 - 罗布泊寻找父"
 date:  2024-09-28 14:41:56 +0800
 categories: thinking
-tags: 感想
+tags: story
 author: 龙行青旅李哥
 ---
 
