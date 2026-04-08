@@ -1,0 +1,9 @@
+<figure class="video">
+  <video controls preload="metadata"{% if include.poster %} poster="{{ include.poster }}"{% endif %}>
+    <source src="{{ include.url }}" type="{{ include.type | default: 'video/mp4' }}">
+    您的浏览器不支持 video 标签。
+  </video>
+  {% if include.description %}
+    <figcaption>{{ include.description }}</figcaption>
+  {% endif %}
+</figure>
