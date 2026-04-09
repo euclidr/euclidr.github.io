@@ -15,12 +15,19 @@
           word-break: break-word;
         }
         figure {
-            display: inline-block;
-            /*border: 1px dotted gray;*/
-            margin: 20px; /* adjust as needed */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px auto; /* adjust as needed */
         }
         figure img {
             vertical-align: top;
+            max-width: 100%;
+            height: auto;
+        }
+        figure video {
+            max-width: 100%;
+            height: auto;
         }
         figure figcaption {
             /*border: 1px dotted blue;*/

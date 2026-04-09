@@ -16,7 +16,7 @@ tags: thinking
 
 于是我们就开始讨论柜子的设计方案，我画了一下初步想法
 
-{% include image.html url="/assets/images/2026-04-08/chest-draft.jpg" description="抽屉草稿" %}
+{% include image.html url="/assets/images/2026-04-08/chest-draft.jpg" description="抽屉草稿" maxHeight="400px" %}
 
 
 
@@ -24,17 +24,19 @@ tags: thinking
 
 这个面平的叫满装
 
-{% include image.html url="/assets/images/2026-04-08/manzhuang.jpg" description="满装" %}
+{% include image.html url="/assets/images/2026-04-08/manzhuang.jpg" description="满装" maxHeight="400px" %}
 
 这个面有点往外突的叫起鼓
 
-{% include image.html url="/assets/images/2026-04-08/qigu.jpg" description="起鼓" %}
+{% include image.html url="/assets/images/2026-04-08/qigu.jpg" description="起鼓" maxHeight="400px"%}
 
 红木开料，每一锯都要精确计算，避瑕疵，权衡利弊
 
-{% include video.html url="/assets/images/2026-04-08/kailiao.mp4" description="开料" %}
+{% include video.html url="/assets/images/2026-04-08/kailiao.mp4" description="开料" maxHeight="400px"%}
 
 ### 琐碎记录
 
-刚开始想让抽屉的板尽量薄，后来在刮了几块板后，感觉过于浪费，于是其中3块刮到7毫米，用于放高一点的矿，其余保留10毫米。
+* 刚开始想让抽屉的板尽量薄，后来在刮了几块板后，感觉过于浪费，于是其中3块刮到7毫米，用于放高一点的矿，其余保留10毫米。
+
+* 刚开始小抽屉侧板衔接打算用45度锁边拼板刀，后来发现这种不如燕尾榫结构结实，并且出错概率大，所以改用燕尾榫曹的方式。
 

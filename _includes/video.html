@@ -1,5 +1,5 @@
 <figure class="video">
-  <video controls preload="metadata"{% if include.poster %} poster="{{ include.poster }}"{% endif %}>
+  <video controls preload="metadata"{% if include.poster %} poster="{{ include.poster }}"{% endif %}{% if include.maxHeight %} style="max-height: {{ include.maxHeight }}; width: auto;"{% endif %}>
     <source src="{{ include.url }}" type="{{ include.type | default: 'video/mp4' }}">
     您的浏览器不支持 video 标签。
   </video>
