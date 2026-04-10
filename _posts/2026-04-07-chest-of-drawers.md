@@ -18,6 +18,45 @@ tags: thinking
 
 {% include image.html url="/assets/images/2026-04-08/chest-draft.jpg" description="抽屉草稿" maxHeight="400px" %}
 
+其实需要权衡的地方还是挺多的，刚开始想着一些高一点的抽屉放大点的盒子，一些窄一点的放小盒子，但这样有不少坏处。比如我无法按产地来放置矿物了，因为我收藏的产地矿物都有大有小。还有就是太窄的抽屉必然会被底板占据更大比例的高度，最终抽屉内可用空间会很小（也费板）。
+
+然后是柜子的宽高，如果宽高比太小，那观感上就容易推倒。想要装多一点，但又不应该过高。最终的高度是 底层抽屉 10cm + 其余12个抽屉 7cm + 柜脚10cm + 底部横梁4cm + 顶部横梁4cm = 112cm, 宽 63cm, 厚 47cm。
+
+{% include image.html url="/assets/images/2026-04-08/1x1draft.jpg" description="1:1设计图" maxHeight="400px" %}
+
+还有就是锁的问题，我希望能有锁，但按普通的那些一个一个拿钥匙去打开的话又过于麻烦，并且这种锁也影响美观，并且有生锈问题。能用百年的柜子总不能装一个二十年就生锈的锁吧。Hamilton 柜子的锁是在侧面一个地方控制整个柜子的开关，也是一个金属的，也有锁容易坏的风险。矿友想了几个方案，和木工师傅也探讨了一下，并且给我比画了一下，但我还是想象不出怎么样。直到他们弄出来。
+
+其实就是在抽屉的滑轨垂直方向放置一个木条（微凹黄檀）木条往上推就是开，往下拉就是锁紧。这个木条有一点弧度，这样不容易受重力作用滑下来。
+
+{% include video.html url="/assets/images/2026-04-08/use-lock.mp4" description="暗锁使用" maxHeight="400px"%}
+
+{% include video.html url="/assets/images/2026-04-08/lock-introduction.mp4" description="暗锁的原理" maxHeight="400px"%}
+
+{% include image.html url="/assets/images/2026-04-08/drawer-lock.jpg" description="暗锁卡口" maxHeight="400px"%}
+
+然后是防止抽屉整个抽出的方案
+
+{% include video.html url="/assets/images/2026-04-08/drawer-fixer.mp4" description="防抽出方案" maxHeight="400px"%}
+
+每个抽屉都是特别调整的，设置了编号
+
+{% include image.html url="/assets/images/2026-04-08/drawer-number.jpg" description="抽屉编号" maxHeight="400px"%}
+
+
+### 其他中途记录
+
+{% include image.html url="/assets/images/2026-04-08/scaffold1.jpg" description="固定架" maxHeight="400px"%}
+
+{% include image.html url="/assets/images/2026-04-08/scaffold2.jpg" description="固定架" maxHeight="400px"%}
+
+{% include image.html url="/assets/images/2026-04-08/initial-state.jpg" description="初步状态" maxHeight="400px"%}
+
+
+### 琐碎记录
+
+* 刚开始想让抽屉的板尽量薄，后来在刮了几块板后，感觉过于浪费，于是其中3块刮到7毫米，用于放高一点的矿，其余保留10毫米。
+
+* 刚开始小抽屉侧板衔接打算用45度锁边拼板刀，后来发现这种不如燕尾榫结构结实，并且出错概率大，所以改用燕尾榫曹的方式。
 
 
 ### 知识点
@@ -34,9 +73,6 @@ tags: thinking
 
 {% include video.html url="/assets/images/2026-04-08/kailiao.mp4" description="开料" maxHeight="400px"%}
 
-### 琐碎记录
+缅甸花梨木里面的芳香树脂就是这个物种进化出来防止真菌的
 
-* 刚开始想让抽屉的板尽量薄，后来在刮了几块板后，感觉过于浪费，于是其中3块刮到7毫米，用于放高一点的矿，其余保留10毫米。
-
-* 刚开始小抽屉侧板衔接打算用45度锁边拼板刀，后来发现这种不如燕尾榫结构结实，并且出错概率大，所以改用燕尾榫曹的方式。
 
